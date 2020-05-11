@@ -1,0 +1,147 @@
+[09-May-2020 04:50:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'n' in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php:7
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#3 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 7
+[09-May-2020 04:50:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'n' in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php:7
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#3 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 7
+[09-May-2020 04:50:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'n' in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php:7
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#3 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 7
+[09-May-2020 04:50:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'n' in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php:7
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#3 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 7
+[09-May-2020 04:50:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'n' in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php:7
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#3 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 7
+[09-May-2020 04:51:36 UTC] PHP Parse error:  syntax error, unexpected '/' in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 3
+[09-May-2020 04:52:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 3
+[09-May-2020 04:52:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 3
+[09-May-2020 04:52:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 3
+[11-May-2020 06:08:33 UTC] PHP Warning:  Use of undefined constant images - assumed 'images' (this will throw an Error in a future version of PHP) in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 76
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  Use of undefined constant bus - assumed 'bus' (this will throw an Error in a future version of PHP) in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 76
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  A non-numeric value encountered in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 76
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  A non-numeric value encountered in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 76
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  Division by zero in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 76
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  Use of undefined constant jpg - assumed 'jpg' (this will throw an Error in a future version of PHP) in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 76
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  Use of undefined constant images - assumed 'images' (this will throw an Error in a future version of PHP) in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 85
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  Use of undefined constant apples - assumed 'apples' (this will throw an Error in a future version of PHP) in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 85
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  A non-numeric value encountered in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 85
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  A non-numeric value encountered in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 85
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  Division by zero in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 85
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  Use of undefined constant jpg - assumed 'jpg' (this will throw an Error in a future version of PHP) in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 85
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  Use of undefined constant images - assumed 'images' (this will throw an Error in a future version of PHP) in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 94
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  Use of undefined constant bread - assumed 'bread' (this will throw an Error in a future version of PHP) in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 94
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  A non-numeric value encountered in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 94
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  A non-numeric value encountered in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 94
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  Division by zero in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 94
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[11-May-2020 06:08:33 UTC] PHP Warning:  Use of undefined constant jpg - assumed 'jpg' (this will throw an Error in a future version of PHP) in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php on line 94
+[11-May-2020 06:08:33 UTC] PHP Stack trace:
+[11-May-2020 06:08:33 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[11-May-2020 06:08:33 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[11-May-2020 06:08:33 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[11-May-2020 06:08:33 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
