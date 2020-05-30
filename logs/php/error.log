@@ -246,3 +246,100 @@ Stack trace:
 #2 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
 #3 {main}
   thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php on line 53
+[23-May-2020 22:11:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php on line 33
+[23-May-2020 22:48:38 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (20/07/2020) at position 0 (2): Unexpected character in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php:29
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php(29): DateTime->__construct('20/07/2020')
+#1 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#4 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php on line 29
+[23-May-2020 22:50:23 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (20/07/2020) at position 0 (2): Unexpected character in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php:29
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php(29): DateTime->__construct('20/07/2020')
+#1 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#4 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php on line 29
+[23-May-2020 22:55:02 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (20/07/2020) at position 0 (2): Unexpected character in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php:29
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php(29): DateTime->__construct('20/07/2020')
+#1 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#4 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php on line 29
+[23-May-2020 22:55:03 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (20/07/2020) at position 0 (2): Unexpected character in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php:29
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php(29): DateTime->__construct('20/07/2020')
+#1 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#4 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php on line 29
+[23-May-2020 22:55:04 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (20/07/2020) at position 0 (2): Unexpected character in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php:29
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php(29): DateTime->__construct('20/07/2020')
+#1 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#4 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php on line 29
+[23-May-2020 22:55:05 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (20/07/2020) at position 0 (2): Unexpected character in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php:29
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php(29): DateTime->__construct('20/07/2020')
+#1 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#4 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php on line 29
+[23-May-2020 22:58:31 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (20/07/2020) at position 0 (2): Unexpected character in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php:29
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php(29): DateTime->__construct('20/07/2020')
+#1 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#4 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php on line 29
+[23-May-2020 22:59:30 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (20/07/2020) at position 0 (2): Unexpected character in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php:29
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php(29): DateTime->__construct('20/07/2020')
+#1 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#4 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php on line 29
+[23-May-2020 23:00:09 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (20/07/2020) at position 0 (2): Unexpected character in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php:29
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php(29): DateTime->__construct('20/07/2020')
+#1 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#4 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php on line 29
+[23-May-2020 23:03:08 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (20/07/2020) at position 0 (2): Unexpected character in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php:29
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php(29): DateTime->__construct('20/07/2020')
+#1 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#4 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php on line 29
+[23-May-2020 23:04:53 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_field(), 0 passed in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php on line 29 and at least 1 expected in /Users/joselopez/Local Sites/university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php:20
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php(29): get_field()
+#1 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#4 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/plugins/advanced-custom-fields/includes/api/api-template.php on line 20
+[23-May-2020 23:05:19 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (20/07/2020) at position 0 (2): Unexpected character in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php:29
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php(29): DateTime->__construct('20/07/2020')
+#1 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#4 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php on line 29
