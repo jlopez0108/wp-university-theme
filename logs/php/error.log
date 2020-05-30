@@ -343,3 +343,119 @@ Stack trace:
 #3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
 #4 {main}
   thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php on line 29
+[29-May-2020 20:37:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university-adjust-queries' not found or invalid function name in /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-hook.php on line 287
+[29-May-2020 20:37:17 UTC] PHP Stack trace:
+[29-May-2020 20:37:17 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[29-May-2020 20:37:17 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[29-May-2020 20:37:17 UTC] PHP   3. wp() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:16
+[29-May-2020 20:37:17 UTC] PHP   4. WP->main() /Users/joselopez/Local Sites/university/app/public/wp-includes/functions.php:1274
+[29-May-2020 20:37:17 UTC] PHP   5. WP->query_posts() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp.php:737
+[29-May-2020 20:37:17 UTC] PHP   6. WP_Query->query() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp.php:620
+[29-May-2020 20:37:17 UTC] PHP   7. WP_Query->get_posts() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-query.php:3432
+[29-May-2020 20:37:17 UTC] PHP   8. do_action_ref_array() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-query.php:1768
+[29-May-2020 20:37:17 UTC] PHP   9. WP_Hook->do_action() /Users/joselopez/Local Sites/university/app/public/wp-includes/plugin.php:544
+[29-May-2020 20:37:17 UTC] PHP  10. WP_Hook->apply_filters() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-hook.php:311
+[29-May-2020 20:37:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university-adjust-queries' not found or invalid function name in /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-hook.php on line 287
+[29-May-2020 20:37:17 UTC] PHP Stack trace:
+[29-May-2020 20:37:17 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[29-May-2020 20:37:17 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[29-May-2020 20:37:17 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[29-May-2020 20:37:17 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[29-May-2020 20:37:17 UTC] PHP   5. get_header() /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php:3
+[29-May-2020 20:37:17 UTC] PHP   6. locate_template() /Users/joselopez/Local Sites/university/app/public/wp-includes/general-template.php:41
+[29-May-2020 20:37:17 UTC] PHP   7. load_template() /Users/joselopez/Local Sites/university/app/public/wp-includes/template.php:672
+[29-May-2020 20:37:17 UTC] PHP   8. require_once() /Users/joselopez/Local Sites/university/app/public/wp-includes/template.php:723
+[29-May-2020 20:37:17 UTC] PHP   9. wp_nav_menu() /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/header.php:17
+[29-May-2020 20:37:17 UTC] PHP  10. wp_get_nav_menu_items() /Users/joselopez/Local Sites/university/app/public/wp-includes/nav-menu-template.php:143
+[29-May-2020 20:37:17 UTC] PHP  11. get_posts() /Users/joselopez/Local Sites/university/app/public/wp-includes/nav-menu.php:699
+[29-May-2020 20:37:17 UTC] PHP  12. WP_Query->query() /Users/joselopez/Local Sites/university/app/public/wp-includes/post.php:2050
+[29-May-2020 20:37:17 UTC] PHP  13. WP_Query->get_posts() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-query.php:3432
+[29-May-2020 20:37:17 UTC] PHP  14. do_action_ref_array() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-query.php:1768
+[29-May-2020 20:37:17 UTC] PHP  15. WP_Hook->do_action() /Users/joselopez/Local Sites/university/app/public/wp-includes/plugin.php:544
+[29-May-2020 20:37:17 UTC] PHP  16. WP_Hook->apply_filters() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-hook.php:311
+[29-May-2020 20:37:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university-adjust-queries' not found or invalid function name in /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-hook.php on line 287
+[29-May-2020 20:37:17 UTC] PHP Stack trace:
+[29-May-2020 20:37:17 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[29-May-2020 20:37:17 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[29-May-2020 20:37:17 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[29-May-2020 20:37:17 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[29-May-2020 20:37:17 UTC] PHP   5. get_header() /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php:3
+[29-May-2020 20:37:17 UTC] PHP   6. locate_template() /Users/joselopez/Local Sites/university/app/public/wp-includes/general-template.php:41
+[29-May-2020 20:37:17 UTC] PHP   7. load_template() /Users/joselopez/Local Sites/university/app/public/wp-includes/template.php:672
+[29-May-2020 20:37:17 UTC] PHP   8. require_once() /Users/joselopez/Local Sites/university/app/public/wp-includes/template.php:723
+[29-May-2020 20:37:17 UTC] PHP   9. wp_nav_menu() /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/header.php:17
+[29-May-2020 20:37:17 UTC] PHP  10. wp_get_nav_menu_items() /Users/joselopez/Local Sites/university/app/public/wp-includes/nav-menu-template.php:143
+[29-May-2020 20:37:17 UTC] PHP  11. get_posts() /Users/joselopez/Local Sites/university/app/public/wp-includes/nav-menu.php:725
+[29-May-2020 20:37:17 UTC] PHP  12. WP_Query->query() /Users/joselopez/Local Sites/university/app/public/wp-includes/post.php:2050
+[29-May-2020 20:37:17 UTC] PHP  13. WP_Query->get_posts() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-query.php:3432
+[29-May-2020 20:37:17 UTC] PHP  14. do_action_ref_array() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-query.php:1768
+[29-May-2020 20:37:17 UTC] PHP  15. WP_Hook->do_action() /Users/joselopez/Local Sites/university/app/public/wp-includes/plugin.php:544
+[29-May-2020 20:37:17 UTC] PHP  16. WP_Hook->apply_filters() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-hook.php:311
+[29-May-2020 20:37:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university-adjust-queries' not found or invalid function name in /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-hook.php on line 287
+[29-May-2020 20:37:17 UTC] PHP Stack trace:
+[29-May-2020 20:37:17 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[29-May-2020 20:37:17 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[29-May-2020 20:37:17 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[29-May-2020 20:37:17 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[29-May-2020 20:37:17 UTC] PHP   5. get_footer() /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php:38
+[29-May-2020 20:37:17 UTC] PHP   6. locate_template() /Users/joselopez/Local Sites/university/app/public/wp-includes/general-template.php:76
+[29-May-2020 20:37:17 UTC] PHP   7. load_template() /Users/joselopez/Local Sites/university/app/public/wp-includes/template.php:672
+[29-May-2020 20:37:17 UTC] PHP   8. require_once() /Users/joselopez/Local Sites/university/app/public/wp-includes/template.php:723
+[29-May-2020 20:37:17 UTC] PHP   9. wp_nav_menu() /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/footer.php:19
+[29-May-2020 20:37:17 UTC] PHP  10. wp_get_nav_menu_items() /Users/joselopez/Local Sites/university/app/public/wp-includes/nav-menu-template.php:143
+[29-May-2020 20:37:17 UTC] PHP  11. get_posts() /Users/joselopez/Local Sites/university/app/public/wp-includes/nav-menu.php:699
+[29-May-2020 20:37:17 UTC] PHP  12. WP_Query->query() /Users/joselopez/Local Sites/university/app/public/wp-includes/post.php:2050
+[29-May-2020 20:37:17 UTC] PHP  13. WP_Query->get_posts() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-query.php:3432
+[29-May-2020 20:37:17 UTC] PHP  14. do_action_ref_array() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-query.php:1768
+[29-May-2020 20:37:17 UTC] PHP  15. WP_Hook->do_action() /Users/joselopez/Local Sites/university/app/public/wp-includes/plugin.php:544
+[29-May-2020 20:37:17 UTC] PHP  16. WP_Hook->apply_filters() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-hook.php:311
+[29-May-2020 20:37:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university-adjust-queries' not found or invalid function name in /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-hook.php on line 287
+[29-May-2020 20:37:17 UTC] PHP Stack trace:
+[29-May-2020 20:37:17 UTC] PHP   1. {main}() /Users/joselopez/Local Sites/university/app/public/index.php:0
+[29-May-2020 20:37:17 UTC] PHP   2. require() /Users/joselopez/Local Sites/university/app/public/index.php:17
+[29-May-2020 20:37:17 UTC] PHP   3. require_once() /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php:19
+[29-May-2020 20:37:17 UTC] PHP   4. include() /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php:106
+[29-May-2020 20:37:17 UTC] PHP   5. get_footer() /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/index.php:38
+[29-May-2020 20:37:17 UTC] PHP   6. locate_template() /Users/joselopez/Local Sites/university/app/public/wp-includes/general-template.php:76
+[29-May-2020 20:37:17 UTC] PHP   7. load_template() /Users/joselopez/Local Sites/university/app/public/wp-includes/template.php:672
+[29-May-2020 20:37:17 UTC] PHP   8. require_once() /Users/joselopez/Local Sites/university/app/public/wp-includes/template.php:723
+[29-May-2020 20:37:17 UTC] PHP   9. wp_nav_menu() /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/footer.php:19
+[29-May-2020 20:37:17 UTC] PHP  10. wp_get_nav_menu_items() /Users/joselopez/Local Sites/university/app/public/wp-includes/nav-menu-template.php:143
+[29-May-2020 20:37:17 UTC] PHP  11. get_posts() /Users/joselopez/Local Sites/university/app/public/wp-includes/nav-menu.php:725
+[29-May-2020 20:37:17 UTC] PHP  12. WP_Query->query() /Users/joselopez/Local Sites/university/app/public/wp-includes/post.php:2050
+[29-May-2020 20:37:17 UTC] PHP  13. WP_Query->get_posts() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-query.php:3432
+[29-May-2020 20:37:17 UTC] PHP  14. do_action_ref_array() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-query.php:1768
+[29-May-2020 20:37:17 UTC] PHP  15. WP_Hook->do_action() /Users/joselopez/Local Sites/university/app/public/wp-includes/plugin.php:544
+[29-May-2020 20:37:17 UTC] PHP  16. WP_Hook->apply_filters() /Users/joselopez/Local Sites/university/app/public/wp-includes/class-wp-hook.php:311
+[29-May-2020 22:47:10 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (20/07/2020) at position 0 (2): Unexpected character in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php:41
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php(41): DateTime->__construct('20/07/2020')
+#1 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#4 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/front-page.php on line 41
+[29-May-2020 22:50:51 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (20/07/2020) at position 0 (2): Unexpected character in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/archive-event.php:23
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/archive-event.php(23): DateTime->__construct('20/07/2020')
+#1 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#4 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/archive-event.php on line 23
+[29-May-2020 22:50:57 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (20/07/2020) at position 0 (2): Unexpected character in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/archive-event.php:23
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/archive-event.php(23): DateTime->__construct('20/07/2020')
+#1 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#4 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/archive-event.php on line 23
+[29-May-2020 22:50:58 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (20/07/2020) at position 0 (2): Unexpected character in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/archive-event.php:23
+Stack trace:
+#0 /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/archive-event.php(23): DateTime->__construct('20/07/2020')
+#1 /Users/joselopez/Local Sites/university/app/public/wp-includes/template-loader.php(106): include('/Users/joselope...')
+#2 /Users/joselopez/Local Sites/university/app/public/wp-blog-header.php(19): require_once('/Users/joselope...')
+#3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
+#4 {main}
+  thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/archive-event.php on line 23
