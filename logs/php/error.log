@@ -540,3 +540,5 @@ Stack trace:
 #3 /Users/joselopez/Local Sites/university/app/public/index.php(17): require('/Users/joselope...')
 #4 {main}
   thrown in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/single-program.php on line 89
+[15-Jun-2020 06:39:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/functions.php on line 16
+[15-Jun-2020 06:39:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/joselopez/Local Sites/university/app/public/wp-content/themes/newtheme/functions.php on line 16
